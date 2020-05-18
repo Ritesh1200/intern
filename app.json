@@ -1,0 +1,7 @@
+{
+  "name": "IternShala web app",
+  "description": "making",
+  "repository": "https://github.com/Manish-999/Intern",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
