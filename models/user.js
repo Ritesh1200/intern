@@ -11,6 +11,7 @@ var userSchema = mongoose.Schema({
       unique:false,
       required:true
    }
+hero
    
 })
 module.exports= mongoose.model("user",userSchema)
